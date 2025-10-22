@@ -11,4 +11,4 @@
   This BitBoard Checkers game is fairly simple. In an alternating fashion, starting with Red, players will take turns typing out their moves via letter-number notation (Ex:'A3 B4' for a move or 'C3 E5' for a capture). The game is over when when side removes all the others pieces from the board. Good luck!
  
   ## Notes
-  I had trouble initially understanding BitWise operators and how they differed from the similar looking boolean operators. I decided to add a function that allowed the game to work with the square names in Letter-number notation rather than the bitboard position because counting every time was a nightmare for testing. Overall this project tested my understanding while
+  I had trouble initially understanding BitWise operators and how they differed from the similar looking boolean operators. I decided to add a function that allowed the game to work with the square names in Letter-number notation rather than the bitboard position because counting every time was a nightmare for testing. Overall this project tested my understanding while teaching me new things and studios to implement along the way.
